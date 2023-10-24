@@ -3,8 +3,6 @@
 * https://yih-0118.github.io/physic.github.io/Projectile%20Motion%20Simulation%20pr1/
 * https://yih-0118.github.io/physic.github.io/Projectile%20Motion%20Simulation%20pr2/
 * 原文：https://hackmd.io/@yih0118/HJ2qqkNf6
-* pr1=>考慮空氣阻力，但不探究物體旋轉
-* pr2=>不考慮空氣阻力
 
 
 # Part 1. 不考慮空氣阻力
