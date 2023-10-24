@@ -1,9 +1,12 @@
 # physic.github.io
-斜拋實驗模擬
-https://yih-0118.github.io/physic.github.io/Projectile%20Motion%20Simulation%20pr1/
-https://yih-0118.github.io/physic.github.io/Projectile%20Motion%20Simulation%20pr2/
-pr1=>考慮空氣阻力，但不探究物體旋轉
-pr2=>不考慮空氣阻力
+* 斜拋實驗模擬
+* https://yih-0118.github.io/physic.github.io/Projectile%20Motion%20Simulation%20pr1/
+* https://yih-0118.github.io/physic.github.io/Projectile%20Motion%20Simulation%20pr2/
+
+* pr1=>考慮空氣阻力，但不探究物體旋轉
+* pr2=>不考慮空氣阻力
+
+
 # Part 1. 不考慮空氣阻力
 ## 初始物理量
 * 重力加速度$(g)$
